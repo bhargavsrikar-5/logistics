@@ -1,0 +1,29 @@
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+backend/venv/
+backend/.env
+backend/.pytest_cache/
+
+# Javascript / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS & Binaries
+.DS_Store
+Thumbs.db
+*.exe
+*.log
+backend_log.txt
+frontend_log.txt
+
+token.txt
